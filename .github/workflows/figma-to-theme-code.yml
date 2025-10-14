@@ -25,4 +25,4 @@ jobs:
           font-family: "Inter Var"
           project: "primeng"
           tokens-path: "tokens.json" # [optional] path to tokens file
-          output-dir: "./acme-theme" # [optional] output directory
+          output-dir: "./src/app/acme-theme" # [optional] output directory
