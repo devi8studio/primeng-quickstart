@@ -337,17 +337,17 @@ export default {
         }
     },
     primary: {
-        50: "{emerald.50}",
-        100: "{emerald.100}",
-        200: "{emerald.200}",
-        300: "{emerald.300}",
-        400: "{emerald.400}",
-        500: "{emerald.500}",
-        600: "{emerald.600}",
-        700: "{emerald.700}",
-        800: "{emerald.800}",
-        900: "{emerald.900}",
-        950: "{emerald.950}"
+        50: "{pink.50}",
+        100: "{pink.100}",
+        200: "{pink.200}",
+        300: "{pink.300}",
+        400: "{pink.400}",
+        500: "{pink.500}",
+        600: "{pink.600}",
+        700: "{pink.700}",
+        800: "{pink.800}",
+        900: "{pink.900}",
+        950: "{pink.950}"
     },
     iconSize: "1rem",
     focusRing: {
@@ -579,7 +579,7 @@ export default {
                 }
             },
             primary: {
-                color: "#2564eb",
+                color: "{primary.500}",
                 hoverColor: "{primary.600}",
                 activeColor: "{primary.700}",
                 contrastColor: "#ffffff"
