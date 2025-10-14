@@ -1,14 +1,13 @@
 import { Component, computed, inject } from '@angular/core';
 import { ButtonModule } from 'primeng/button';
 import { StyleClassModule } from 'primeng/styleclass';
-import { AppConfig } from './app.config';
 import { LayoutService } from '../service/layout.service';
 import { CommonModule } from '@angular/common';
 
 @Component({
   selector: 'app-topbar',
   standalone: true,
-  imports: [CommonModule, ButtonModule, StyleClassModule, AppConfig],
+  imports: [CommonModule, ButtonModule, StyleClassModule],
   template: `
     <div class="topbar-container">
       <div class="topbar-brand">
@@ -132,21 +131,6 @@ import { CommonModule } from '@angular/common';
             }"
           ></i>
         </p-button>
-        <div class="relative">
-          <p-button
-            pStyleClass="@next"
-            enterFromClass="hidden"
-            enterActiveClass="animate-scalein"
-            leaveToClass="hidden"
-            leaveActiveClass="animate-fadeout"
-            [hideOnOutsideClick]="true"
-            icon="pi pi-cog"
-            text
-            rounded
-            aria-label="Settings"
-          />
-          <app-config class="hidden" />
-        </div>
       </div>
     </div>
   `,
