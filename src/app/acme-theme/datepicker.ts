@@ -1,4 +1,4 @@
-import type { DatePickerDesignTokens } from '@primeng/themes/types/datepicker';
+import type { DatePickerDesignTokens } from '@primeuix/themes/types/datepicker';
 
  export default {
     date: {

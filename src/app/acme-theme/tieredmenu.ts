@@ -1,4 +1,4 @@
-import type { TieredMenuDesignTokens } from '@primeng/themes/types/tieredmenu';
+import type { TieredMenuDesignTokens } from '@primeuix/themes/types/tieredmenu';
 
  export default {
     item: {

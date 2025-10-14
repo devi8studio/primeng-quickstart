@@ -1,4 +1,4 @@
-import type { TextareaDesignTokens } from '@primeng/themes/types/textarea';
+import type { TextareaDesignTokens } from '@primeuix/themes/types/textarea';
 
  export default {
     root: {

@@ -1,4 +1,4 @@
-import type { PasswordDesignTokens } from '@primeng/themes/types/password';
+import type { PasswordDesignTokens } from '@primeuix/themes/types/password';
 
  export default {
     icon: {

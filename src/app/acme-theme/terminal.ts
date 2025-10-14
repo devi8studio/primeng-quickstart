@@ -1,4 +1,4 @@
-import type { TerminalDesignTokens } from '@primeng/themes/types/terminal';
+import type { TerminalDesignTokens } from '@primeuix/themes/types/terminal';
 
  export default {
     root: {

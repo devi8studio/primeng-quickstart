@@ -1,4 +1,4 @@
-import type { AvatarDesignTokens } from '@primeng/themes/types/avatar';
+import type { AvatarDesignTokens } from '@primeuix/themes/types/avatar';
 
  export default {
     lg: {

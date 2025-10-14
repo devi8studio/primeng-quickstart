@@ -1,4 +1,4 @@
-import type { PopoverDesignTokens } from '@primeng/themes/types/popover';
+import type { PopoverDesignTokens } from '@primeuix/themes/types/popover';
 
  export default {
     root: {

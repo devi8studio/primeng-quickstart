@@ -1,4 +1,4 @@
-import type { InputGroupDesignTokens } from '@primeng/themes/types/inputgroup';
+import type { InputGroupDesignTokens } from '@primeuix/themes/types/inputgroup';
 
  export default {
     addon: {

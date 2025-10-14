@@ -1,4 +1,4 @@
-import type { TabsDesignTokens } from '@primeng/themes/types/tabs';
+import type { TabsDesignTokens } from '@primeuix/themes/types/tabs';
 
  export default {
     tab: {

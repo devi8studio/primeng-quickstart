@@ -1,4 +1,4 @@
-import type { OrganizationChartDesignTokens } from '@primeng/themes/types/organizationchart';
+import type { OrganizationChartDesignTokens } from '@primeuix/themes/types/organizationchart';
 
  export default {
     node: {

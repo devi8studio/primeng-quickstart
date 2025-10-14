@@ -1,4 +1,4 @@
-import type { BadgeDesignTokens } from '@primeng/themes/types/badge';
+import type { BadgeDesignTokens } from '@primeuix/themes/types/badge';
 
  export default {
     lg: {

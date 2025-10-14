@@ -1,4 +1,4 @@
-import type { ChipDesignTokens } from '@primeng/themes/types/chip';
+import type { ChipDesignTokens } from '@primeuix/themes/types/chip';
 
  export default {
     icon: {

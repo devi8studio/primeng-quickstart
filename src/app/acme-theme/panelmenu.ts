@@ -1,4 +1,4 @@
-import type { PanelMenuDesignTokens } from '@primeng/themes/types/panelmenu';
+import type { PanelMenuDesignTokens } from '@primeuix/themes/types/panelmenu';
 
  export default {
     item: {

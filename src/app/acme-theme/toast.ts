@@ -1,4 +1,4 @@
-import type { ToastDesignTokens } from '@primeng/themes/types/toast';
+import type { ToastDesignTokens } from '@primeuix/themes/types/toast';
 
  export default {
     icon: {

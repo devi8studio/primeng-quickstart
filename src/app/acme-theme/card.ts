@@ -1,4 +1,4 @@
-import type { CardDesignTokens } from '@primeng/themes/types/card';
+import type { CardDesignTokens } from '@primeuix/themes/types/card';
 
  export default {
     body: {

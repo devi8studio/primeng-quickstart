@@ -1,4 +1,4 @@
-import type { MultiSelectDesignTokens } from '@primeng/themes/types/multiselect';
+import type { MultiSelectDesignTokens } from '@primeuix/themes/types/multiselect';
 
  export default {
     chip: {

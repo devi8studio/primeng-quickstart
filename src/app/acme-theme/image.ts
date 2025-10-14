@@ -1,4 +1,4 @@
-import type { ImageDesignTokens } from '@primeng/themes/types/image';
+import type { ImageDesignTokens } from '@primeuix/themes/types/image';
 
  export default {
     root: {

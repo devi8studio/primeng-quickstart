@@ -1,4 +1,4 @@
-import type { InputOtpDesignTokens } from '@primeng/themes/types/inputotp';
+import type { InputOtpDesignTokens } from '@primeuix/themes/types/inputotp';
 
  export default {
     root: {

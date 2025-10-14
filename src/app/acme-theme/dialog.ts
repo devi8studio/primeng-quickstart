@@ -1,4 +1,4 @@
-import type { DialogDesignTokens } from '@primeng/themes/types/dialog';
+import type { DialogDesignTokens } from '@primeuix/themes/types/dialog';
 
  export default {
     root: {

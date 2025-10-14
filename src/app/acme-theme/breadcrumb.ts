@@ -1,4 +1,4 @@
-import type { BreadcrumbDesignTokens } from '@primeng/themes/types/breadcrumb';
+import type { BreadcrumbDesignTokens } from '@primeuix/themes/types/breadcrumb';
 
  export default {
     item: {

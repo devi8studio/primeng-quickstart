@@ -1,4 +1,4 @@
-import type { CheckboxDesignTokens } from '@primeng/themes/types/checkbox';
+import type { CheckboxDesignTokens } from '@primeuix/themes/types/checkbox';
 
  export default {
     icon: {

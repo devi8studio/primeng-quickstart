@@ -1,4 +1,4 @@
-import type { ConfirmPopupDesignTokens } from '@primeng/themes/types/confirmpopup';
+import type { ConfirmPopupDesignTokens } from '@primeuix/themes/types/confirmpopup';
 
  export default {
     icon: {

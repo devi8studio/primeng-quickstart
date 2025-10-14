@@ -1,4 +1,4 @@
-import type { RatingDesignTokens } from '@primeng/themes/types/rating';
+import type { RatingDesignTokens } from '@primeuix/themes/types/rating';
 
  export default {
     icon: {

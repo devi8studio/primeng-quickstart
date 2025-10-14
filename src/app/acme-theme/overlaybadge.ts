@@ -1,4 +1,4 @@
-import type { OverlayBadgeDesignTokens } from '@primeng/themes/types/overlaybadge';
+import type { OverlayBadgeDesignTokens } from '@primeuix/themes/types/overlaybadge';
 
  export default {
     root: {

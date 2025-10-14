@@ -1,4 +1,4 @@
-import type { ImageCompareDesignTokens } from '@primeng/themes/types/imagecompare';
+import type { ImageCompareDesignTokens } from '@primeuix/themes/types/imagecompare';
 
  export default {
     handle: {

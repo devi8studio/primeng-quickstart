@@ -1,4 +1,4 @@
-import type { ContextMenuDesignTokens } from '@primeng/themes/types/contextmenu';
+import type { ContextMenuDesignTokens } from '@primeuix/themes/types/contextmenu';
 
  export default {
     item: {

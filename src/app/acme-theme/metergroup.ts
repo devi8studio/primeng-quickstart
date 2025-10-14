@@ -1,4 +1,4 @@
-import type { MeterGroupDesignTokens } from '@primeng/themes/types/metergroup';
+import type { MeterGroupDesignTokens } from '@primeuix/themes/types/metergroup';
 
  export default {
     root: {

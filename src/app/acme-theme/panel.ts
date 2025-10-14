@@ -1,4 +1,4 @@
-import type { PanelDesignTokens } from '@primeng/themes/types/panel';
+import type { PanelDesignTokens } from '@primeuix/themes/types/panel';
 
  export default {
     root: {

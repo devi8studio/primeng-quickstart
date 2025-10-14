@@ -1,4 +1,4 @@
-import type { ToggleButtonDesignTokens } from '@primeng/themes/types/togglebutton';
+import type { ToggleButtonDesignTokens } from '@primeuix/themes/types/togglebutton';
 
  export default {
     icon: {

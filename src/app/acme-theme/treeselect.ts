@@ -1,4 +1,4 @@
-import type { TreeSelectDesignTokens } from '@primeng/themes/types/treeselect';
+import type { TreeSelectDesignTokens } from '@primeuix/themes/types/treeselect';
 
  export default {
     chip: {

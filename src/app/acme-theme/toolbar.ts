@@ -1,4 +1,4 @@
-import type { ToolbarDesignTokens } from '@primeng/themes/types/toolbar';
+import type { ToolbarDesignTokens } from '@primeuix/themes/types/toolbar';
 
  export default {
     root: {

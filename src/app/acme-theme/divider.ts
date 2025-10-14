@@ -1,4 +1,4 @@
-import type { DividerDesignTokens } from '@primeng/themes/types/divider';
+import type { DividerDesignTokens } from '@primeuix/themes/types/divider';
 
  export default {
     root: {

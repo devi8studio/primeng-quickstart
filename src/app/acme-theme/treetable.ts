@@ -1,4 +1,4 @@
-import type { TreeTableDesignTokens } from '@primeng/themes/types/treetable';
+import type { TreeTableDesignTokens } from '@primeuix/themes/types/treetable';
 
  export default {
     row: {

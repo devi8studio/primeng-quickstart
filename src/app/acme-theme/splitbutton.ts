@@ -1,4 +1,4 @@
-import type { SplitButtonDesignTokens } from '@primeng/themes/types/splitbutton';
+import type { SplitButtonDesignTokens } from '@primeuix/themes/types/splitbutton';
 
  export default {
     root: {

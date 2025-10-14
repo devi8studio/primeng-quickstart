@@ -1,4 +1,4 @@
-import type { FloatLabelDesignTokens } from '@primeng/themes/types/floatlabel';
+import type { FloatLabelDesignTokens } from '@primeuix/themes/types/floatlabel';
 
  export default {
     in: {

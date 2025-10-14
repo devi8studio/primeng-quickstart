@@ -1,4 +1,4 @@
-import type { ScrollPanelDesignTokens } from '@primeng/themes/types/scrollpanel';
+import type { ScrollPanelDesignTokens } from '@primeuix/themes/types/scrollpanel';
 
  export default {
     bar: {

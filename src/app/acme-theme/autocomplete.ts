@@ -1,4 +1,4 @@
-import type { AutoCompleteDesignTokens } from '@primeng/themes/types/autocomplete';
+import type { AutoCompleteDesignTokens } from '@primeuix/themes/types/autocomplete';
 
  export default {
     chip: {

@@ -1,4 +1,4 @@
-import type { Preset } from "@primeng/themes/types";
+import type { Preset } from "@primeuix/themes/types";
 import base from "./base";
 import tag from "./tag";
 import card from "./card";

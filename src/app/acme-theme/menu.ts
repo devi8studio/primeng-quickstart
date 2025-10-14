@@ -1,4 +1,4 @@
-import type { MenuDesignTokens } from '@primeng/themes/types/menu';
+import type { MenuDesignTokens } from '@primeuix/themes/types/menu';
 
  export default {
     item: {

@@ -1,4 +1,4 @@
-import type { CascadeSelectDesignTokens } from '@primeng/themes/types/cascadeselect';
+import type { CascadeSelectDesignTokens } from '@primeuix/themes/types/cascadeselect';
 
  export default {
     list: {

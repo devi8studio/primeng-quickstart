@@ -1,4 +1,4 @@
-import type { EditorDesignTokens } from '@primeng/themes/types/editor';
+import type { EditorDesignTokens } from '@primeuix/themes/types/editor';
 
  export default {
     content: {

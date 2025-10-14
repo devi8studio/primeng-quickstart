@@ -1,4 +1,4 @@
-import type { TreeDesignTokens } from '@primeng/themes/types/tree';
+import type { TreeDesignTokens } from '@primeuix/themes/types/tree';
 
  export default {
     node: {

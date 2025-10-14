@@ -1,4 +1,4 @@
-import type { TagDesignTokens } from '@primeng/themes/types/tag';
+import type { TagDesignTokens } from '@primeuix/themes/types/tag';
 
  export default {
     icon: {

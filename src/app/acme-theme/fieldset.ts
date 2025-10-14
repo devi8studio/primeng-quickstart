@@ -1,4 +1,4 @@
-import type { FieldsetDesignTokens } from '@primeng/themes/types/fieldset';
+import type { FieldsetDesignTokens } from '@primeuix/themes/types/fieldset';
 
  export default {
     root: {

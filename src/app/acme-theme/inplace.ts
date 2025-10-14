@@ -1,4 +1,4 @@
-import type { InplaceDesignTokens } from '@primeng/themes/types/inplace';
+import type { InplaceDesignTokens } from '@primeuix/themes/types/inplace';
 
  export default {
     root: {

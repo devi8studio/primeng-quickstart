@@ -1,4 +1,4 @@
-import type { SkeletonDesignTokens } from '@primeng/themes/types/skeleton';
+import type { SkeletonDesignTokens } from '@primeuix/themes/types/skeleton';
 
  export default {
     root: {

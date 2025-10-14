@@ -1,4 +1,4 @@
-import type { DockDesignTokens } from '@primeng/themes/types/dock';
+import type { DockDesignTokens } from '@primeuix/themes/types/dock';
 
  export default {
     item: {

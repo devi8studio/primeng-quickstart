@@ -1,4 +1,4 @@
-import type { RadioButtonDesignTokens } from '@primeng/themes/types/radiobutton';
+import type { RadioButtonDesignTokens } from '@primeuix/themes/types/radiobutton';
 
  export default {
     icon: {

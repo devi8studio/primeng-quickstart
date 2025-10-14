@@ -290,7 +290,7 @@ export default {
         lg: "8px",
         md: "6px",
         sm: "4px",
-        xl: "16px",
+        xl: "12px",
         xs: "2px",
         none: "0"
     }
