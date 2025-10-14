@@ -579,7 +579,7 @@ export default {
                 }
             },
             primary: {
-                color: "{primary.500}",
+                color: "{blue.500}",
                 hoverColor: "{primary.600}",
                 activeColor: "{primary.700}",
                 contrastColor: "#ffffff"
